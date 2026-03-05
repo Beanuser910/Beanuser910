@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:ff004d,70:ff2d55,100:ff006e&height=320&section=header&text=BEANUSER910&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=NEON%20CODE%20REBEL%20%7C%20AI%20%26%203D%20WARRIOR&descSize=26&descAlignY=68&descAlign=center&stroke=ff2d55&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d0010,100:000000&height=250&section=header&text=BEANUSER910&fontSize=75&fontColor=ff2d55&animation=fadeIn&fontAlignY=45&desc=NEON%20CODE%20REBEL%20%7C%20AI%20%26%203D%20WARRIOR&descSize=20&descAlignY=68&descAlign=50" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=900&color=FF2D55&center=true&vCenter=true&width=700&lines=⚡+IGNITE+THE+CODE;🔴+NEON+RUNNER+ACTIVATED;💥+AI+%26+3D+EXPLOSION;🔥+HUSTLE+OR+CRASH" alt="Neon Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=900&color=FF2D55&center=true&vCenter=true&width=700&lines=%E2%9A%A1+IGNITE+THE+CODE;%F0%9F%94%B4+NEON+RUNNER+ACTIVATED;%F0%9F%92%A5+AI+%26+3D+EXPLOSION;%F0%9F%94%A5+HUSTLE+OR+CRASH" alt="Neon Typing" />
 </div>
 
 <br/>
@@ -136,7 +136,7 @@ motto    : "Code is war. Neon is fuel. Burn bright or burn out."
 ## 🏆 `> trophy_vault --display`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beanuser910&theme=radical&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&bg_color=0d0d0d&title_color=ff2d55" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Beanuser910&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -160,11 +160,11 @@ motto    : "Code is war. Neon is fuel. Burn bright or burn out."
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Beanuser910&icon=5&color=12" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Beanuser910&style=for-the-badge&color=ff2d55&label=VISITORS" alt="Visitors"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:ff2d55,100:000000&height=120&section=footer&text=BURN+BRIGHT+OR+BURN+OUT&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d0010,100:ff006e&height=120&section=footer&text=BURN+BRIGHT+OR+BURN+OUT&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
