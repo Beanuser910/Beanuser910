@@ -1,89 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1d5e,50:8b0000,100:ff2d55&height=300&section=header&text=BEANUSER910&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Creative%20AI%20Developer&descSize=24&descAlignY=65&descAlign=center" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:ff004d,70:ff2d55,100:ff006e&height=340&section=header&text=BEANUSER910&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=NEON%20CODE%20REBEL%20%7C%20AI%20%26%203D%20WARRIOR&descSize=28&descAlignY=68&descAlign=center&stroke=ff2d55&strokeWidth=3" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1200&color=FF2D55&center=true&vCenter=true&width=620&lines=Building+Scalable+Web+Apps;Creating+Immersive+3D+Experiences;Integrating+Generative+AI;Level+4+Student+%40+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&pause=800&color=FF2D55&center=true&vCenter=true&width=720&lines=IGNITE+THE+CODE;NEON+RUNNER+ACTIVATED;AI+%26+3D+EXPLOSION;HUSTLE+OR+CRASH+%F0%9F%94%A5" alt="Neon Typing Explosion" />
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" height="80" alt="Laptop Neon"/>
   <br/><br/>
-  <b>Chào mừng đến với profile của tôi! 🚀👾</b><br/>
-  Tôi là một Software Engineer đam mê xây dựng giao diện <span style="color:#FF2D55;font-weight:bold">Next.js</span> cực nhanh<br/>
-  và tích hợp <span style="color:#FF2D55;font-weight:bold">Generative AI</span> để tạo trải nghiệm người dùng đỉnh cao.
+  <b style="font-size:1.4em;color:#ff2d55;text-shadow:0 0 20px #ff004d;">WELCOME TO THE NEON UNDERGROUND! ⚡️🔥</b><br/><br/>
+  Tôi là <span style="color:#ff006e;font-weight:bold;text-shadow:0 0 15px #ff2d55;">BEANUSER910</span> – kẻ nổi loạn code,<br/>
+  đốt cháy giao diện <span style="color:#ff2d55;font-weight:bold;">Next.js siêu tốc</span> + <span style="color:#ff006e;">Generative AI bùng nổ</span><br/>
+  biến ý tưởng thành <span style="color:#ff4d4d;">trải nghiệm 3D điên rồ</span>!
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Stats Overview</h2>
+  <h2 style="color:#ff2d55;text-shadow:0 0 15px #ff004d;">🔥 GITHUB NEON DASHBOARD 🔥</h2>
   <table>
     <tr>
       <td align="center" style="border:none;">
-        <img height="190" src="https://github-readme-stats.vercel.app/api?username=Beanuser910&show_icons=true&theme=radical&bg_color=0a1d5e&title_color=ff2d55&text_color=ffffff&icon_color=ff2d55&border_color=ff2d55&hide_border=true&include_all_commits=true&count_private=true"/>
+        <img height="210" src="https://github-readme-stats.vercel.app/api?username=Beanuser910&show_icons=true&theme=radical&bg_color=000000&title_color=ff2d55&text_color=ffcccc&icon_color=ff006e&border_color=ff2d55&hide_border=true&include_all_commits=true&count_private=true&ring_color=ff006e"/>
       </td>
       <td align="center" style="border:none;">
-        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beanuser910&layout=compact&theme=radical&bg_color=0a1d5e&title_color=ff2d55&text_color=ffffff&border_color=ff2d55&hide_border=true"/>
+        <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beanuser910&layout=compact&theme=dracula&bg_color=000000&title_color=ff2d55&text_color=ffcccc&border_color=ff2d55&hide_border=true&langs_count=8"/>
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beanuser910&theme=radical&background=0a1d5e&border=ff2d55&stroke=ffffff&ring=ff2d55&fire=ff2d55&currStreakNum=ffffff&currStreakLabel=ff2d55&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beanuser910&theme=highcontrast&background=000000&border=ff2d55&stroke=ff004d&ring=ff2d55&fire=ff006e&currStreakNum=ff2d55&currStreakLabel=ff006e&sideNums=ffffff&sideLabels=ffcccc&dates=ff9999" alt="Neon Streak Fire"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🚀 Tech Stack Arsenal</h2>
+  <h2 style="color:#ff006e;text-shadow:0 0 20px #ff2d55;">⚡ NEON TECH ARSENAL ⚡</h2>
   
-  <table>
+  <table cellspacing="15">
     <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        <br/><b>Next.js</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-        <br/><b>React</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind"/>
-        <br/><b>Tailwind</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/>
-        <br/><b>TypeScript</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=threejs" width="50" height="50" alt="Three.js"/>
-        <br/><b>Three.js</b>
-      </td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br/><b style="color:#ff2d55;">Next.js</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br/><b style="color:#ff2d55;">React</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/><b style="color:#ff2d55;">Tailwind</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60"/><br/><b style="color:#ff2d55;">TypeScript</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="60"/><br/><b style="color:#ff2d55;">Three.js</b></td>
     </tr>
-  </table>
-
-  <table>
     <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-        <br/><b>Java</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-        <br/><b>Python</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-        <br/><b>MySQL</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
-        <br/><b>Figma</b>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-        <br/><b>Git</b>
-      </td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br/><b style="color:#ff2d55;">Java</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br/><b style="color:#ff2d55;">Python</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/><b style="color:#ff2d55;">MySQL</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br/><b style="color:#ff2d55;">Figma</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br/><b style="color:#ff2d55;">Git</b></td>
     </tr>
   </table>
 </div>
@@ -91,50 +59,49 @@
 <br/>
 
 <div align="center">
-  <h2>⚡ Current Missions</h2>
+  <h2 style="color:#ff004d;text-shadow:0 0 25px #ff2d55;">💥 CURRENT CHAOS MISSIONS 💥</h2>
   
-  | Project              | Tech Stack                        | Status     | Description                                                                 |
-  |----------------------|-----------------------------------|------------|-----------------------------------------------------------------------------|
-  | **🛒 AI E-commerce** | Next.js • OpenAI • Tailwind       | 🚀 Active  | Nền tảng TMĐT tích hợp AI Chatbot & Text-to-Image sản phẩm                  |
-  | **📹 3D Pixel Gen**  | Python • Three.js • Flask         | 🛠️ Building| Text-to-3D Pixel Art generator                                              |
-  | **🎨 Portfolio V2**  | React • Framer Motion • GSAP      | ✨ Polishing| Portfolio tương tác cao cấp với animation mượt mà                           |
+  | Project                  | Tech Arsenal                          | Status       | Description (Neon Level)                                      |
+  |--------------------------|---------------------------------------|--------------|----------------------------------------------------------------|
+  | **🛒 AI E-COMMERCE**     | Next.js • OpenAI • Tailwind • Vercel  | 🚀 FULL THROTTLE | AI Chatbot + Gen-ảnh sản phẩm – mua sắm như hack matrix!      |
+  | **📹 3D PIXEL GEN**      | Python • Three.js • Flask • Stable Diffusion | 🛠️ OVERCLOCKING | Text-to-3D Pixel Art – biến chữ thành voxel bùng nổ!          |
+  | **🎨 PORTFOLIO V2**      | React • Framer Motion • GSAP • Shader | ✨ ULTRA POLISH | Portfolio tương tác 3D + neon glow – đập vào mắt viewer!      |
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="color:#FF2D55">🐍 Contribution Snake Game</h2>
+  <h2 style="color:#ff2d55;text-shadow:0 0 30px #ff006e;">🐍 NEON CONTRIBUTION SNAKE ATTACK 🐍</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="Neon Snake Eating Contributions" src="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg" width="90%"/>
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Beanuser910&theme=radical&row=1&column=6&margin-w=15&no-frame=true&bg_color=0a1d5e&title_color=ff2d55" alt="Trophies"/>
+  <h2 style="color:#ff006e;">🏆 NEON TROPHY VAULT 🏆</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Beanuser910&theme=radical&row=1&column=7&margin-w=15&no-frame=true&bg_color=000000&title_color=ff2d55&margin-h=15" alt="Neon Trophies"/>
 </div>
 
-<hr style="border:1px solid #FF2D55; margin: 40px 0;"/>
+<hr style="border:3px dashed #ff2d55; margin:50px 0; box-shadow:0 0 30px #ff004d;"/>
 
 <div align="center">
-  <h3 style="color:#FF2D55">📡 Connect With Me</h3>
+  <h3 style="color:#ff006e;text-shadow:0 0 25px #ff2d55;font-size:1.6em;">📡 NEON UPLINK PROTOCOLS 📡</h3>
   
   <a href="https://instagram.com/_kaiserdon_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=ff2d55"/>
   </a>
   <a href="mailto:tuanhungcntt321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff004d"/>
   </a>
   <a href="https://linkedin.com/in/beanuser910">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff2d55"/>
   </a>
   
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Beanuser910&icon=5&color=12" alt="Profile views"/>
+  <img src="https://visitcount.itsvg.in/api?id=Beanuser910&icon=5&color=12" alt="Neon Visitors"/>
   <br/><br/>
-  <i>"Code is poetry written in logic and fueled by coffee."</i>
+  <i style="color:#ff9999;text-shadow:0 0 10px #ff2d55;">"Code is war. Neon is fuel. Burn bright or burn out."</i>
 </div>
