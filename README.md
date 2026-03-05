@@ -63,7 +63,7 @@ motto    : "Code is war. Neon is fuel. Burn bright or burn out."
 <div align="center">
 
 ### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,threejs,gsap&perline=6" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,threejs,vercel&perline=6" />
 
 ### ⚙️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=python,java,flask,mysql,git,figma&perline=6" />
@@ -72,8 +72,8 @@ motto    : "Code is war. Neon is fuel. Burn bright or burn out."
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stable%20Diffusion-ff2d55?style=for-the-badge&logo=stability-ai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stable%20Diffusion-ff2d55?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -96,7 +96,7 @@ motto    : "Code is war. Neon is fuel. Burn bright or burn out."
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beanuser910&bg_color=0d0d0d&color=ff2d55&line=ff006e&point=ffffff&area=true&area_color=ff004d&hide_border=true&custom_title=NEON%20CONTRIBUTION%20GRAPH" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beanuser910&bg_color=0d0d0d&color=ff2d55&line=ff006e&point=ffffff&area=true&hide_border=true&custom_title=NEON%20CONTRIBUTION%20GRAPH&radius=6" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
@@ -118,14 +118,18 @@ motto    : "Code is war. Neon is fuel. Burn bright or burn out."
 ## 🐍 `> snake_attack --neon`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg" width="92%"/>
-  </picture>
-</div>
 
-> ⚠️ **Snake setup:** Đảm bảo repo `Beanuser910/Beanuser910` có GitHub Actions workflow `snake.yml` chạy đúng và branch `output` tồn tại với file SVG. Xem hướng dẫn: [Platane/snk](https://github.com/Platane/snk)
+> 🔧 **Snake cần setup thủ công:** Tạo file `.github/workflows/snake.yml` trong repo `Beanuser910/Beanuser910`, chạy action [Platane/snk](https://github.com/Platane/snk) để sinh SVG vào branch `output`. Sau khi setup xong, bỏ comment đoạn bên dưới.
+
+<!-- Uncomment sau khi snake workflow đã chạy thành công:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg" width="92%"/>
+</picture>
+-->
+
+</div>
 
 ---
 
