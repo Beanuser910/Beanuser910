@@ -1,113 +1,166 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:ff004d,70:ff2d55,100:ff006e&height=340&section=header&text=BEANUSER910&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=NEON%20CODE%20REBEL%20%7C%20AI%20%26%203D%20WARRIOR&descSize=28&descAlignY=68&descAlign=center&stroke=ff2d55&strokeWidth=3" width="100%"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&pause=800&color=FF2D55&center=true&vCenter=true&width=720&lines=IGNITE+THE+CODE;NEON+RUNNER+ACTIVATED;AI+%26+3D+EXPLOSION;HUSTLE+OR+CRASH+%F0%9F%94%A5" alt="Neon Typing Explosion" />
-</h1>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" height="80" alt="Laptop Neon"/>
-  <br/><br/>
-  <b style="font-size:1.4em;color:#ff2d55;text-shadow:0 0 20px #ff004d;">WELCOME TO THE NEON UNDERGROUND! ⚡️🔥</b><br/><br/>
-  Tôi là <span style="color:#ff006e;font-weight:bold;text-shadow:0 0 15px #ff2d55;">BEANUSER910</span> – kẻ nổi loạn code,<br/>
-  đốt cháy giao diện <span style="color:#ff2d55;font-weight:bold;">Next.js siêu tốc</span> + <span style="color:#ff006e;">Generative AI bùng nổ</span><br/>
-  biến ý tưởng thành <span style="color:#ff4d4d;">trải nghiệm 3D điên rồ</span>!
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:ff004d,70:ff2d55,100:ff006e&height=320&section=header&text=BEANUSER910&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=NEON%20CODE%20REBEL%20%7C%20AI%20%26%203D%20WARRIOR&descSize=26&descAlignY=68&descAlign=center&stroke=ff2d55&strokeWidth=2" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="color:#ff2d55;text-shadow:0 0 15px #ff004d;">🔥 GITHUB NEON DASHBOARD 🔥</h2>
-  <!-- Fix stats: dùng repo ổn định hơn hoặc theme radical vẫn chạy tốt cho nhiều user -->
-  <table>
-    <tr>
-      <td align="center" style="border:none;">
-        <img height="210" src="https://github-readme-stats.vercel.app/api?username=Beanuser910&show_icons=true&theme=radical&bg_color=000000&title_color=ff2d55&text_color=ffcccc&icon_color=ff006e&hide_border=true&include_all_commits=true&count_private=true" alt="Stats (if broken, try refresh or use personal token instance)"/>
-      </td>
-      <td align="center" style="border:none;">
-        <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beanuser910&layout=compact&theme=dracula&bg_color=000000&title_color=ff2d55&text_color=ffcccc&hide_border=true&langs_count=8" alt="Top Langs"/>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Streak: dùng herokuapp hoặc demolab nếu vercel down, nhưng radical vẫn ok -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beanuser910&theme=radical&background=000000&border=ff2d55&stroke=ff004d&ring=ff2d55&fire=ff006e&currStreakNum=ff2d55&currStreakLabel=ff006e&sideNums=ffffff&sideLabels=ffcccc&dates=ff9999" alt="Neon Streak Fire"/>
-  <!-- Nếu streak vẫn lỗi, fallback: https://streak-stats.demolab.com?user=Beanuser910&theme=radical -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=900&color=FF2D55&center=true&vCenter=true&width=700&lines=⚡+IGNITE+THE+CODE;🔴+NEON+RUNNER+ACTIVATED;💥+AI+%26+3D+EXPLOSION;🔥+HUSTLE+OR+CRASH" alt="Neon Typing" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="color:#ff006e;text-shadow:0 0 20px #ff2d55;">⚡ NEON TECH ARSENAL ⚡</h2>
-  
-  <table cellspacing="15">
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br/><b style="color:#ff2d55;">Next.js</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br/><b style="color:#ff2d55;">React</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/><b style="color:#ff2d55;">Tailwind</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60"/><br/><b style="color:#ff2d55;">TypeScript</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="60"/><br/><b style="color:#ff2d55;">Three.js</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br/><b style="color:#ff2d55;">Java</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br/><b style="color:#ff2d55;">Python</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/><b style="color:#ff2d55;">MySQL</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br/><b style="color:#ff2d55;">Figma</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br/><b style="color:#ff2d55;">Git</b></td>
-    </tr>
-  </table>
+
+```
+  ██████╗ ███████╗ █████╗ ███╗   ██╗██╗   ██╗███████╗███████╗██████╗
+  ██╔══██╗██╔════╝██╔══██╗████╗  ██║██║   ██║██╔════╝██╔════╝██╔══██╗
+  ██████╔╝█████╗  ███████║██╔██╗ ██║██║   ██║███████╗█████╗  ██████╔╝
+  ██╔══██╗██╔══╝  ██╔══██║██║╚██╗██║██║   ██║╚════██║██╔══╝  ██╔══██╗
+  ██████╔╝███████╗██║  ██║██║ ╚████║╚██████╔╝███████║███████╗██║  ██║
+  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+                  [ SYSTEM ONLINE — NEON PROTOCOL ACTIVE ]
+```
+
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="color:#ff004d;text-shadow:0 0 25px #ff2d55;">💥 CURRENT CHAOS MISSIONS 💥</h2>
-  
-  | Project                  | Tech Arsenal                          | Status       | Description (Neon Level)                                      |
-  |--------------------------|---------------------------------------|--------------|----------------------------------------------------------------|
-  | **🛒 AI E-COMMERCE**     | Next.js • OpenAI • Tailwind • Vercel  | 🚀 FULL THROTTLE | AI Chatbot + Gen-ảnh sản phẩm – mua sắm như hack matrix!      |
-  | **📹 3D PIXEL GEN**      | Python • Three.js • Flask • Stable Diffusion | 🛠️ OVERCLOCKING | Text-to-3D Pixel Art – biến chữ thành voxel bùng nổ!          |
-  | **🎨 PORTFOLIO V2**      | React • Framer Motion • GSAP • Shader | ✨ ULTRA POLISH | Portfolio tương tác 3D + neon glow – đập vào mắt viewer!      |
+  <img src="https://img.shields.io/badge/STATUS-OVERCLOCKING-ff2d55?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmMmQ1NSIgZD0iTTEzIDIuMDVWMi4wNUMxOC4xOCAyLjU2IDIyIDcgMjIgMTJjMCA1LjU0LTQuNTEgMTAtMTAgMTBTMiAxNy41NCAyIDEyYzAtNSAzLjgyLTkuNDQgOS0xMS45NVoiLz48L3N2Zz4="/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%203D%20SYSTEMS-ff006e?style=for-the-badge&labelColor=0a0a0a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASE-VIETNAM%20🇻🇳-ff4d4d?style=for-the-badge&labelColor=0a0a0a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VIBE-NEON%20UNDERGROUND-ff2d55?style=for-the-badge&labelColor=0a0a0a"/>
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> `> whoami`
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" height="120" alt="Laptop"/>
+
+```yaml
+name     : BEANUSER910
+alias    : The Neon Code Rebel
+language : Vietnamese / English
+stack    : Next.js · TypeScript · Three.js · AI/ML
+passion  : Turning wild ideas → stunning digital realities
+status   : Building the future, one neon pixel at a time
+motto    : "Code is war. Neon is fuel. Burn bright or burn out."
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ `> tech_arsenal --list`
+
+<div align="center">
+
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,threejs,gsap&perline=6" />
+
+### ⚙️ Backend & Tools
+<img src="https://skillicons.dev/icons?i=python,java,flask,mysql,git,figma&perline=6" />
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stable%20Diffusion-ff2d55?style=for-the-badge&logo=stability-ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+</div>
+
+---
+
+## 🔥 `> github_stats --all`
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Beanuser910&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=ff2d55&text_color=ffcccc&icon_color=ff006e&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beanuser910&layout=compact&theme=radical&bg_color=0d0d0d&title_color=ff2d55&text_color=ffcccc&hide_border=true&langs_count=8&card_width=320" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="color:#ff2d55;text-shadow:0 0 30px #ff006e;">🐍 NEON CONTRIBUTION SNAKE ATTACK 🐍</h2>
-  <!-- Fix snake: dùng path chính xác, thêm picture cho dark/light, và kiểm tra branch output có file không -->
+  <img src="https://streak-stats.demolab.com?user=Beanuser910&theme=radical&background=0d0d0d&border=ff2d55&stroke=ff004d&ring=ff2d55&fire=ff006e&currStreakNum=ff2d55&currStreakLabel=ff006e&sideNums=ffffff&sideLabels=ffcccc&dates=ff9999&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beanuser910&bg_color=0d0d0d&color=ff2d55&line=ff006e&point=ffffff&area=true&area_color=ff004d&hide_border=true&custom_title=NEON%20CONTRIBUTION%20GRAPH" alt="Activity Graph" width="95%"/>
+</div>
+
+---
+
+## 💥 `> ls ./missions --active`
+
+<div align="center">
+
+| 🔴 PROJECT | 🛠️ STACK | 📡 STATUS | 📋 DESCRIPTION |
+|:---|:---|:---:|:---|
+| **🛒 AI E-COMMERCE** | Next.js · OpenAI · Tailwind · Vercel | `🚀 SHIPPING` | AI Chatbot + Image Gen — mua sắm như hack matrix |
+| **🎨 3D PIXEL GEN** | Python · Three.js · Flask · Stable Diffusion | `⚙️ BUILDING` | Text → 3D Voxel Art — biến chữ thành voxel điên rồ |
+| **🌐 PORTFOLIO V2** | React · Framer Motion · GSAP · WebGL Shader | `✨ POLISHING` | Portfolio 3D tương tác full neon glow |
+
+</div>
+
+---
+
+## 🐍 `> snake_attack --neon`
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg" />
-    <img alt="Neon Snake Eating Contributions" src="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg" width="90%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Beanuser910/Beanuser910/output/github-contribution-grid-snake-dark.svg" width="92%"/>
   </picture>
-  <!-- Nếu vẫn lỗi 404 → setup lại workflow theo hướng dẫn dưới -->
+</div>
+
+> ⚠️ **Snake setup:** Đảm bảo repo `Beanuser910/Beanuser910` có GitHub Actions workflow `snake.yml` chạy đúng và branch `output` tồn tại với file SVG. Xem hướng dẫn: [Platane/snk](https://github.com/Platane/snk)
+
+---
+
+## 🏆 `> trophy_vault --display`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Beanuser910&theme=radical&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&bg_color=0d0d0d&title_color=ff2d55" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📡 `> uplink --connect`
+
+<div align="center">
+  <a href="https://instagram.com/_kaiserdon_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-ff2d55?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tuanhungcntt321@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-ff004d?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/beanuser910">
+    <img src="https://img.shields.io/badge/LINKEDIN-ff2d55?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="color:#ff006e;">🏆 NEON TROPHY VAULT 🏆</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Beanuser910&theme=radical&row=1&column=7&margin-w=15&no-frame=true&bg_color=000000&title_color=ff2d55&margin-h=15" alt="Neon Trophies"/>
+  <img src="https://visitcount.itsvg.in/api?id=Beanuser910&icon=5&color=12" alt="Visitors"/>
 </div>
 
-<hr style="border:3px dashed #ff2d55; margin:50px 0; box-shadow:0 0 30px #ff004d;"/>
+<br/>
 
 <div align="center">
-  <h3 style="color:#ff006e;text-shadow:0 0 25px #ff2d55;font-size:1.6em;">📡 NEON UPLINK PROTOCOLS 📡</h3>
-  
-  <a href="https://instagram.com/_kaiserdon_">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=ff2d55"/>
-  </a>
-  <a href="mailto:tuanhungcntt321@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff004d"/>
-  </a>
-  <a href="https://linkedin.com/in/beanuser910">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff2d55"/>
-  </a>
-  
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Beanuser910&icon=5&color=12" alt="Neon Visitors"/>
-  <br/><br/>
-  <i style="color:#ff9999;text-shadow:0 0 10px #ff2d55;">"Code is war. Neon is fuel. Burn bright or burn out."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:ff2d55,100:000000&height=120&section=footer&text=BURN+BRIGHT+OR+BURN+OUT&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
