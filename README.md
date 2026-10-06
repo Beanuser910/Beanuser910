@@ -10,10 +10,10 @@ Main stack         : Next.js, TypeScript, Python, Java
 
 ## About Me
 
-- 🎓 Software Engineering student
-- 💻 Building web applications and experimenting with AI/ML
-- 🧠 Currently learning Machine Learning and Data Science
-- 🛠️ Interested in turning ideas into useful products
+-  Software Engineering student
+-  Building web applications and experimenting with AI/ML
+-  Currently learning Machine Learning and Data Science
+-  Interested in turning ideas into useful products
 - 🇻🇳 Based in Vietnam
 
 ## Tech Stack
